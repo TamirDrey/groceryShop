@@ -40,3 +40,4 @@ D:\Projects\groceryShopApp\server\obj\Debug\net9.0\ref\server.dll
 D:\Projects\groceryShopApp\server\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Projects\groceryShopApp\server\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Projects\groceryShopApp\server\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\groceryShopApp\server\obj\Debug\net9.0\server.sourcelink.json
