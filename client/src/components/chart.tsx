@@ -32,7 +32,7 @@ const ChartComponent: React.FC<ChartProps> = ({ reports }) => {
     <div className="flex justify-center items-center">
       {data.length > 1 ? (
         <Chart
-          chartType="ColumnChart" // Use Material Design Bar Chart
+          chartType="ColumnChart"
           width="100%"
           height="100%"
           data={data}
